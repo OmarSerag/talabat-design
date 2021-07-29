@@ -1,6 +1,6 @@
 # talabat
 
-A new Flutter project.
+talabat design.
 
 ## Getting Started
 
